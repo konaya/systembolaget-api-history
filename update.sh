@@ -5,3 +5,4 @@ curl -s https://www.systembolaget.se/api/assortment/stores/xml | tidy -xml -i -q
 curl -s https://www.systembolaget.se/api/assortment/stock/xml | tidy -xml -i -q > stock.xml
 git add products.xml stores.xml stock.xml
 git commit -m "$(date)"
+git push
