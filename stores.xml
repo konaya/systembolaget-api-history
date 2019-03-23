@@ -8574,6 +8574,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
+    <Nr>036007-91C</Nr>
+    <Namn>Coop Karlholm</Namn>
+    <Address1>Nöttövägen 1</Address1>
+    <Address2 />
+    <Address3>819 40</Address3>
+    <Address4>KARLHOLMSBRUK</Address4>
+    <Address5>Uppsala län</Address5>
+    <Telefon>010-747 51 21</Telefon>
+    <ButiksTyp />
+    <Tjanster />
+    <Oppettider />
+    <RT90x />
+    <RT90y />
+  </ButikOmbud>
+  <ButikOmbud xsi:type="AgentAssortmentViewModel">
+    <Typ>Ombud</Typ>
     <Nr>036008-91A</Nr>
     <Namn>Ica Torget</Namn>
     <Address1>Ol-andersvägen 1</Address1>
@@ -9379,6 +9395,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Oppettider />
     <RT90x>6442616.007</RT90x>
     <RT90y>1405651.361</RT90y>
+  </ButikOmbud>
+  <ButikOmbud xsi:type="AgentAssortmentViewModel">
+    <Typ>Ombud</Typ>
+    <Nr>064203-90E</Nr>
+    <Namn>Handlarn i Brandstorp</Namn>
+    <Address1>Kyrkliden 2 A</Address1>
+    <Address2 />
+    <Address3>566 93</Address3>
+    <Address4>BRANDSTORP</Address4>
+    <Address5>Jönköpings län</Address5>
+    <Telefon>0502-500 07</Telefon>
+    <ButiksTyp />
+    <Tjanster />
+    <Oppettider />
+    <RT90x />
+    <RT90y />
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
@@ -10498,7 +10530,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Namn>Ica Nära Torhallen</Namn>
     <Address1>Sandhamnsvägen 54</Address1>
     <Address2 />
-    <Address3>370 42</Address3>
+    <Address3>373 71</Address3>
     <Address4>TORHAMN</Address4>
     <Address5>Blekinge län</Address5>
     <Telefon>0455-510 02</Telefon>
@@ -13018,6 +13050,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
+    <Nr>213206-90C</Nr>
+    <Namn>Coop Hassela</Namn>
+    <Address1>Torggränd 1</Address1>
+    <Address2 />
+    <Address3>829 98</Address3>
+    <Address4>HASSELA</Address4>
+    <Address5>Gävleborgs län</Address5>
+    <Telefon>010-747 51 91</Telefon>
+    <ButiksTyp />
+    <Tjanster />
+    <Oppettider />
+    <RT90x />
+    <RT90y />
+  </ButikOmbud>
+  <ButikOmbud xsi:type="AgentAssortmentViewModel">
+    <Typ>Ombud</Typ>
     <Nr>216103-90B</Nr>
     <Namn>Lotta-Boden</Namn>
     <Address1>Gärdesvägen 3</Address1>
@@ -13102,6 +13150,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
+    <Nr>218003-92B</Nr>
+    <Namn>Coop Norrsundet</Namn>
+    <Address1>Egnahemsgatan 54</Address1>
+    <Address2 />
+    <Address3>817 30</Address3>
+    <Address4>NORRSUNDET</Address4>
+    <Address5>Gävleborgs län</Address5>
+    <Telefon>010-747 51 50</Telefon>
+    <ButiksTyp />
+    <Tjanster />
+    <Oppettider />
+    <RT90x />
+    <RT90y />
+  </ButikOmbud>
+  <ButikOmbud xsi:type="AgentAssortmentViewModel">
+    <Typ>Ombud</Typ>
     <Nr>218003-94C</Nr>
     <Namn>Ica Nära Bergby</Namn>
     <Address1>Vijvägen 38</Address1>
@@ -13148,6 +13212,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Oppettider />
     <RT90x>6718685</RT90x>
     <RT90y>1539827</RT90y>
+  </ButikOmbud>
+  <ButikOmbud xsi:type="AgentAssortmentViewModel">
+    <Typ>Ombud</Typ>
+    <Nr>218102-91B</Nr>
+    <Namn>Coop Storvik</Namn>
+    <Address1>Tingsgatan 10</Address1>
+    <Address2 />
+    <Address3>812 30</Address3>
+    <Address4>STORVIK</Address4>
+    <Address5>Gävleborgs län</Address5>
+    <Telefon>010-747 49 41</Telefon>
+    <ButiksTyp />
+    <Tjanster />
+    <Oppettider />
+    <RT90x />
+    <RT90y />
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
@@ -13200,6 +13280,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
+    <Nr>218206-90B</Nr>
+    <Namn>Coop Bergvik</Namn>
+    <Address1>Varianthuset</Address1>
+    <Address2 />
+    <Address3>826 67</Address3>
+    <Address4>BERGVIK</Address4>
+    <Address5>Gävleborgs län</Address5>
+    <Telefon>010-747 51 11</Telefon>
+    <ButiksTyp />
+    <Tjanster />
+    <Oppettider />
+    <RT90x />
+    <RT90y />
+  </ButikOmbud>
+  <ButikOmbud xsi:type="AgentAssortmentViewModel">
+    <Typ>Ombud</Typ>
     <Nr>218208-90C</Nr>
     <Namn>Ica Nära Trönö</Namn>
     <Address1>Glamsta 990</Address1>
@@ -13230,6 +13326,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Oppettider />
     <RT90x>6790791</RT90x>
     <RT90y>1540776</RT90y>
+  </ButikOmbud>
+  <ButikOmbud xsi:type="AgentAssortmentViewModel">
+    <Typ>Ombud</Typ>
+    <Nr>218306-91C</Nr>
+    <Namn>Coop Kilafors</Namn>
+    <Address1>Stationsgatan 14</Address1>
+    <Address2 />
+    <Address3>823 30</Address3>
+    <Address4>KILAFORS</Address4>
+    <Address5>Gävleborgs län</Address5>
+    <Telefon>010-747 51 31</Telefon>
+    <ButiksTyp />
+    <Tjanster />
+    <Oppettider />
+    <RT90x />
+    <RT90y />
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
