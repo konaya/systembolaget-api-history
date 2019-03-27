@@ -8407,23 +8407,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>018823-91A</Nr>
-    <Namn>Spillersboda Lanthandel</Namn>
-    <Address1>Spillersbodavägen 198</Address1>
-    <Address2 />
-    <Address3>761 97</Address3>
-    <Address4>NORRTÄLJE</Address4>
-    <Address5>Stockholms län</Address5>
-    <Telefon>0176-22 10 01</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <SokOrd>STHLM;STOCKHOLM;NORRTÄLJE</SokOrd>
-    <Oppettider />
-    <RT90x>6624059.149</RT90x>
-    <RT90y>1671690.468</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
     <Nr>018824-90B</Nr>
     <Namn>ICA Blidö</Namn>
     <Address1>Oxhalsö</Address1>
