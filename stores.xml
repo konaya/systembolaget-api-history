@@ -9904,22 +9904,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>078102-90E</Nr>
-    <Namn>Lanthandeln i Agunnaryd</Namn>
-    <Address1>Brånavägen 6.</Address1>
-    <Address2 />
-    <Address3>341 77</Address3>
-    <Address4>AGUNNARYD</Address4>
-    <Address5>Kronobergs län</Address5>
-    <Telefon>0372-690 39</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <Oppettider />
-    <RT90x>6292397.404</RT90x>
-    <RT90y>1398577.082</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
     <Nr>078103-90B</Nr>
     <Namn>Ica Nära Ryssby</Namn>
     <Address1>Storgatan 7</Address1>
