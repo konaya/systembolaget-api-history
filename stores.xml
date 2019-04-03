@@ -8389,6 +8389,23 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
+    <Nr>018823-91A</Nr>
+    <Namn>Spillersboda Lanthandel</Namn>
+    <Address1>Spillersbodavägen 198</Address1>
+    <Address2 />
+    <Address3>761 97</Address3>
+    <Address4>NORRTÄLJE</Address4>
+    <Address5>Stockholms län</Address5>
+    <Telefon>0176-22 10 01</Telefon>
+    <ButiksTyp />
+    <Tjanster />
+    <SokOrd>STHLM;STOCKHOLM;NORRTÄLJE</SokOrd>
+    <Oppettider />
+    <RT90x>6624059.149</RT90x>
+    <RT90y>1671690.468</RT90y>
+  </ButikOmbud>
+  <ButikOmbud xsi:type="AgentAssortmentViewModel">
+    <Typ>Ombud</Typ>
     <Nr>018824-90B</Nr>
     <Namn>ICA Blidö</Namn>
     <Address1>Oxhalsö</Address1>
@@ -9330,22 +9347,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>064203-90D</Nr>
-    <Namn>Handlarn i Brandstorp</Namn>
-    <Address1>Kyrkliden 2 A</Address1>
-    <Address2 />
-    <Address3>566 93</Address3>
-    <Address4>BRANDSTORP</Address4>
-    <Address5>Jönköpings län</Address5>
-    <Telefon>0502-500 07</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <Oppettider />
-    <RT90x>6442616.007</RT90x>
-    <RT90y>1405651.361</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
     <Nr>064203-90E</Nr>
     <Namn>Handlarn i Brandstorp</Namn>
     <Address1>Kyrkliden 2 A</Address1>
@@ -9447,7 +9448,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>068024-90A</Nr>
-    <Namn>Konsum Unnaryd</Namn>
+    <Namn>Coop Konsum Unnaryd</Namn>
     <Address1>Bolmenvägen 2</Address1>
     <Address2 />
     <Address3>310 83</Address3>
@@ -9768,7 +9769,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>076703-90B</Nr>
-    <Namn>Coop Nära Traryd</Namn>
+    <Namn>Coop Traryd</Namn>
     <Address1>Hallandsvägen 3</Address1>
     <Address2 />
     <Address3>287 72</Address3>
@@ -11385,7 +11386,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>143506-91D</Nr>
-    <Namn>Coop Konsum Fjällbacka</Namn>
+    <Namn>Coop Fjällbacka</Namn>
     <Address1>Jasminvägen 2</Address1>
     <Address2 />
     <Address3>457 40</Address3>
@@ -11451,7 +11452,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>146006-90B</Nr>
-    <Namn>Coop Konsum Mustadfors</Namn>
+    <Namn>Coop Mustadfors</Namn>
     <Address1>Enetsvägen 15</Address1>
     <Address2 />
     <Address3>666 95</Address3>
@@ -11467,7 +11468,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>148037-90A</Nr>
-    <Namn>Coop Konsum Styrsö</Namn>
+    <Namn>Coop Styrsö</Namn>
     <Address1>C/O Fiskebäck Godsfärjeläger</Address1>
     <Address2 />
     <Address3>426 58</Address3>
@@ -11500,7 +11501,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>148203-90B</Nr>
-    <Namn>Coop Nära Marstrand</Namn>
+    <Namn>Coop Marstrand</Namn>
     <Address1>Arvidsvik</Address1>
     <Address2 />
     <Address3>442 66</Address3>
@@ -11518,7 +11519,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>148405-90B</Nr>
-    <Namn>Coop Konsum Brastad</Namn>
+    <Namn>Coop Brastad</Namn>
     <Address1>Lysekilsvägen 3</Address1>
     <Address2 />
     <Address3>454 31</Address3>
@@ -11769,7 +11770,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>171503-91A</Nr>
-    <Namn>Konsum Nära Högboda</Namn>
+    <Namn>Coop Högboda</Namn>
     <Address1>Stationsvägen 2</Address1>
     <Address2 />
     <Address3>665 93</Address3>
@@ -11820,7 +11821,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>173005-91A</Nr>
-    <Namn>Coop Konsum Åmotfors</Namn>
+    <Namn>Coop Åmotfors</Namn>
     <Address1>Jössevägen 1</Address1>
     <Address2 />
     <Address3>670 40</Address3>
@@ -11905,7 +11906,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>173708-91A</Nr>
-    <Namn>Coop Konsum Sysslebäck</Namn>
+    <Namn>Coop Sysslebäck</Namn>
     <Address1>Näckåvägen 21</Address1>
     <Address2 />
     <Address3>680 60</Address3>
@@ -12038,7 +12039,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>176605-90A</Nr>
-    <Namn>Coop Nära Lysvik</Namn>
+    <Namn>Coop Lysvik</Namn>
     <Address1>Gamla vägen 40</Address1>
     <Address2 />
     <Address3>686 97</Address3>
@@ -12072,7 +12073,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>178006-91A</Nr>
-    <Namn>Coop Konsum Molkom</Namn>
+    <Namn>Coop Molkom</Namn>
     <Address1>Stationsgatan 5</Address1>
     <Address2 />
     <Address3>655 60</Address3>
@@ -12190,7 +12191,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>178511-90A</Nr>
-    <Namn>Coop Nära Svanskog</Namn>
+    <Namn>Coop Svanskog</Namn>
     <Address1>Smedjegatan 1</Address1>
     <Address2 />
     <Address3>662 50</Address3>
@@ -13163,20 +13164,19 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>218206-90A</Nr>
-    <Namn>Coop Konsum Bergvik-Hälsingland</Namn>
-    <Address1>Variant Köpcenter</Address1>
+    <Nr>218206-90B</Nr>
+    <Namn>Coop Bergvik-Hälsingland</Namn>
+    <Address1>Varianthuset</Address1>
     <Address2 />
     <Address3>826 67</Address3>
     <Address4>BERGVIK</Address4>
     <Address5>Gävleborgs län</Address5>
-    <Telefon>010-747 51 10</Telefon>
+    <Telefon>010-747 51 11</Telefon>
     <ButiksTyp />
     <Tjanster />
-    <SokOrd>HÄLSINGLAND;GÄVLEBORG;SÖDERHAMN</SokOrd>
     <Oppettider />
-    <RT90x>6795402.383</RT90x>
-    <RT90y>1555519.767</RT90y>
+    <RT90x />
+    <RT90y />
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
@@ -15272,7 +15272,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>251401-91A</Nr>
-    <Namn>Konsum Sangis</Namn>
+    <Namn>Coop Sangis</Namn>
     <Address1>Bagarevägen 2</Address1>
     <Address2 />
     <Address3>952 72</Address3>
@@ -15655,7 +15655,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>258401-92B</Nr>
-    <Namn>Coop Konsum Katterjåkk</Namn>
+    <Namn>Coop Katterjåkk</Namn>
     <Address1>Katterjåkk</Address1>
     <Address2 />
     <Address3>981 94</Address3>
@@ -15671,7 +15671,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>258402-90B</Nr>
-    <Namn>Coop Nära Vittangi</Namn>
+    <Namn>Coop Vittangi</Namn>
     <Address1>Centralvägen 26</Address1>
     <Address2 />
     <Address3>980 10</Address3>
@@ -15687,7 +15687,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>258402-91B</Nr>
-    <Namn>Coop Nära Svappavaara</Namn>
+    <Namn>Coop Svappavaara</Namn>
     <Address1>Kirunavägen</Address1>
     <Address2 />
     <Address3>980 20</Address3>
