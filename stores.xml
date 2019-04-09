@@ -13408,20 +13408,19 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>213206-90B</Nr>
-    <Namn>Coop Nära Hassela</Namn>
+    <Nr>213206-90C</Nr>
+    <Namn>Coop Hassela</Namn>
     <Address1>Torggränd 1</Address1>
     <Address2 />
     <Address3>829 98</Address3>
     <Address4>HASSELA</Address4>
     <Address5>Gävleborgs län</Address5>
-    <Telefon>0652-400 21</Telefon>
+    <Telefon>010-747 51 91</Telefon>
     <ButiksTyp />
     <Tjanster />
-    <SokOrd>NORDANSTIG;HÄLSINGLAND;GÄVLEBORG</SokOrd>
     <Oppettider />
-    <RT90x>6888891</RT90x>
-    <RT90y>1547253</RT90y>
+    <RT90x />
+    <RT90y />
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
@@ -13557,20 +13556,19 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>218102-91A</Nr>
-    <Namn>Coop Konsum Storvik</Namn>
+    <Nr>218102-91B</Nr>
+    <Namn>Coop Storvik</Namn>
     <Address1>Tingsgatan 10</Address1>
     <Address2 />
     <Address3>812 30</Address3>
     <Address4>STORVIK</Address4>
     <Address5>Gävleborgs län</Address5>
-    <Telefon>010-747 49 40</Telefon>
+    <Telefon>010-747 49 41</Telefon>
     <ButiksTyp />
     <Tjanster />
-    <SokOrd>GÄSTRIKLAND;GÄVLEBORG;SANDVIKEN</SokOrd>
     <Oppettider />
-    <RT90x>6718685</RT90x>
-    <RT90y>1539827</RT90y>
+    <RT90x />
+    <RT90y />
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
