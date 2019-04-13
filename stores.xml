@@ -8627,6 +8627,23 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
+    <Nr>013605-90C</Nr>
+    <Namn>RånöButiken</Namn>
+    <Address1>Skogsvillan</Address1>
+    <Address2 />
+    <Address3>130 56</Address3>
+    <Address4>Rånö</Address4>
+    <Address5>Stockholms län</Address5>
+    <Telefon>08-501 571 22</Telefon>
+    <ButiksTyp />
+    <Tjanster />
+    <SokOrd>Stockholm;Stockholms skärgård;Nynäshamn</SokOrd>
+    <Oppettider />
+    <RT90x>6535544</RT90x>
+    <RT90y>1636674</RT90y>
+  </ButikOmbud>
+  <ButikOmbud xsi:type="AgentAssortmentViewModel">
+    <Typ>Ombud</Typ>
     <Nr>013607-90A</Nr>
     <Namn>Sandells Livs AB</Namn>
     <Address1>Herrviksvägen 2</Address1>
@@ -12247,7 +12264,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>173004-91A</Nr>
-    <Namn>Coop Nära Skillingsfors</Namn>
+    <Namn>Coop Skillingsfors</Namn>
     <Address1>Boda 1</Address1>
     <Address2 />
     <Address3>670 43</Address3>
@@ -12399,7 +12416,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>173709-92B</Nr>
-    <Namn>Coop Nära Stöllet</Namn>
+    <Namn>Coop Stöllet</Namn>
     <Address1>Gamla vägen 1</Address1>
     <Address2 />
     <Address3>680 51</Address3>
@@ -13000,6 +13017,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Oppettider />
     <RT90x>6783912.553</RT90x>
     <RT90y>1463984.463</RT90y>
+  </ButikOmbud>
+  <ButikOmbud xsi:type="AgentAssortmentViewModel">
+    <Typ>Ombud</Typ>
+    <Nr>203104-91C</Nr>
+    <Namn>Oreboden</Namn>
+    <Address1>Bruksvägen 4</Address1>
+    <Address2 />
+    <Address3>790 70</Address3>
+    <Address4>FURUDAL</Address4>
+    <Address5>Dalarnas län</Address5>
+    <Telefon>0258-100 39</Telefon>
+    <ButiksTyp />
+    <Tjanster />
+    <Oppettider />
+    <RT90x />
+    <RT90y />
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
