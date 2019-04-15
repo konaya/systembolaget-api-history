@@ -13020,22 +13020,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>203104-91C</Nr>
-    <Namn>Oreboden</Namn>
-    <Address1>Bruksvägen 4</Address1>
-    <Address2 />
-    <Address3>790 70</Address3>
-    <Address4>FURUDAL</Address4>
-    <Address5>Dalarnas län</Address5>
-    <Telefon>0258-100 39</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <Oppettider />
-    <RT90x />
-    <RT90y />
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
     <Nr>203402-91A</Nr>
     <Namn>Skattunge Handel</Namn>
     <Address1>Landsvägen 500</Address1>
