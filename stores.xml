@@ -10593,7 +10593,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Namn>ICA Grytan Moheda</Namn>
     <Address1>Västra Järnvägsgatan 7</Address1>
     <Address2 />
-    <Address3>340 36</Address3>
+    <Address3>342 60</Address3>
     <Address4>MOHEDA</Address4>
     <Address5>Kronobergs län</Address5>
     <Telefon>0472-700 02</Telefon>
@@ -12090,7 +12090,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>140701-91A</Nr>
-    <Namn>Källö-Knippla, Coop Konsum</Namn>
+    <Namn>Coop Källö-Knippla</Namn>
     <Address1>Centrumplatsen</Address1>
     <Address2 />
     <Address3>475 51</Address3>
