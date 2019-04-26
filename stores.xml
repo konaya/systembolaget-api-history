@@ -10719,23 +10719,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>088409-90A</Nr>
-    <Namn>Tempo Tuna</Namn>
-    <Address1>Tuna</Address1>
-    <Address2 />
-    <Address3>598 96</Address3>
-    <Address4>VIMMERBY</Address4>
-    <Address5>Kalmar län</Address5>
-    <Telefon>0492-500 03</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <SokOrd>SMÅLAND;VIMMERBY</SokOrd>
-    <Oppettider />
-    <RT90x>6383540.208</RT90x>
-    <RT90y>1517891.411</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
     <Nr>088513-91A</Nr>
     <Namn>ICA Nära Byxelkrok</Namn>
     <Address1>Byxelkroksvägen 87</Address1>
