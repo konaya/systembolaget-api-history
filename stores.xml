@@ -9264,6 +9264,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
+    <Nr>058127-91B</Nr>
+    <Namn>Arkösunds Livs</Namn>
+    <Address1>Fyrvägen 2</Address1>
+    <Address2 />
+    <Address3>610 25</Address3>
+    <Address4>VIKBOLANDET</Address4>
+    <Address5>Norrbottens län</Address5>
+    <ButiksTyp />
+    <Tjanster />
+    <SokOrd>Östergötalands län;</SokOrd>
+    <Oppettider />
+    <RT90x>6485834</RT90x>
+    <RT90y>1565876</RT90y>
+  </ButikOmbud>
+  <ButikOmbud xsi:type="AgentAssortmentViewModel">
+    <Typ>Ombud</Typ>
     <Nr>058208-91A</Nr>
     <Namn>Sankt Anna Handel AB</Namn>
     <Address1>Lagnö, Norra Finnö</Address1>
