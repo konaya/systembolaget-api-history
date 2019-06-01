@@ -12897,6 +12897,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
+    <Nr>208503-91C</Nr>
+    <Namn>Coop Sunnansjö</Namn>
+    <Address2 />
+    <Address5>Dalarnas län</Address5>
+    <ButiksTyp />
+    <Tjanster />
+    <Oppettider />
+    <RT90x />
+    <RT90y />
+  </ButikOmbud>
+  <ButikOmbud xsi:type="AgentAssortmentViewModel">
+    <Typ>Ombud</Typ>
     <Nr>208504-90C</Nr>
     <Namn>Preem Fredriksberg</Namn>
     <Address1>Ludvikavägen 4</Address1>
