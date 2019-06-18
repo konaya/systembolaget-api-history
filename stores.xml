@@ -10169,7 +10169,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Namn>Ica Nära Fliseryd</Namn>
     <Address1>Kyrkvägen 22</Address1>
     <Address2 />
-    <Address3>380 53</Address3>
+    <Address3>384 73</Address3>
     <Address4>FLISERYD</Address4>
     <Address5>Kalmar län</Address5>
     <Telefon>0491-920 03</Telefon>
@@ -10363,22 +10363,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Oppettider />
     <RT90x>6388784.16</RT90x>
     <RT90y>1529821.66</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
-    <Nr>088315-92B</Nr>
-    <Namn>Totebo Lanthandel</Namn>
-    <Address1>Hagavägen 13</Address1>
-    <Address2 />
-    <Address3>590 92</Address3>
-    <Address4>TOTEBO</Address4>
-    <Address5>Kalmar län</Address5>
-    <Telefon>0490-610 39</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <Oppettider />
-    <RT90x />
-    <RT90y />
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
