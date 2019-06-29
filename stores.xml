@@ -11524,7 +11524,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Address3>666 95</Address3>
     <Address4>DALS LÅNGED</Address4>
     <Address5>Västra Götalands län</Address5>
-    <Telefon>0</Telefon>
+    <Telefon>010-747 08 80</Telefon>
     <ButiksTyp />
     <Tjanster />
     <Oppettider />
@@ -12556,6 +12556,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Oppettider />
     <RT90x>6783391.809</RT90x>
     <RT90y>1338723.902</RT90y>
+  </ButikOmbud>
+  <ButikOmbud xsi:type="AgentAssortmentViewModel">
+    <Typ>Ombud</Typ>
+    <Nr>202303-91B</Nr>
+    <Namn>Ica Nära Rörbäcksnäs</Namn>
+    <Address1>Rörbäcksnäs 18</Address1>
+    <Address2 />
+    <Address3>780 66</Address3>
+    <Address4>RÖRBÄCKSNÄS</Address4>
+    <Address5>Dalarnas län</Address5>
+    <Telefon>0</Telefon>
+    <ButiksTyp />
+    <Tjanster />
+    <Oppettider />
+    <RT90x />
+    <RT90y />
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
@@ -14611,6 +14627,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Oppettider />
     <RT90x>6987276</RT90x>
     <RT90y>1438851</RT90y>
+  </ButikOmbud>
+  <ButikOmbud xsi:type="AgentAssortmentViewModel">
+    <Typ>Ombud</Typ>
+    <Nr>238007-90B</Nr>
+    <Namn>Sedins Färg</Namn>
+    <Address1>Centrumvägen 33</Address1>
+    <Address2 />
+    <Address3>834 33</Address3>
+    <Address4>BRUNFLO</Address4>
+    <Address5>Jämtlands län</Address5>
+    <Telefon>063-203 50</Telefon>
+    <ButiksTyp />
+    <Tjanster />
+    <Oppettider />
+    <RT90x />
+    <RT90y />
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
