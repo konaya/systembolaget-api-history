@@ -8137,22 +8137,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>012003-92B</Nr>
-    <Namn>Harö Livs</Namn>
-    <Address1>Harö Brygga, Gummerholmen</Address1>
-    <Address2 />
-    <Address3>130 39</Address3>
-    <Address4>HARÖ</Address4>
-    <Address5>Stockholms län</Address5>
-    <Telefon>08-571 571 91</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <Oppettider />
-    <RT90x>6584381.693</RT90x>
-    <RT90y>1675829.077</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
     <Nr>012003-93C</Nr>
     <Namn>Runmarö Lanthandel</Namn>
     <Address1>Styrsvik 125</Address1>
