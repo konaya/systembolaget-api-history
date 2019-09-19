@@ -13174,7 +13174,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>218206-90B</Nr>
-    <Namn>Coop Bergvik-Hälsingland</Namn>
+    <Namn>Hälsingland Coop Bergvik</Namn>
     <Address1>Varianthuset</Address1>
     <Address2 />
     <Address3>826 67</Address3>
