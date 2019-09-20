@@ -9179,6 +9179,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
+    <Nr>058011-90B</Nr>
+    <Namn>Handlarn i Nykil</Namn>
+    <Address1>Nykil</Address1>
+    <Address2 />
+    <Address3>590 52</Address3>
+    <Address4>NYKIL</Address4>
+    <Address5>Östergötlands län</Address5>
+    <Telefon>0</Telefon>
+    <ButiksTyp />
+    <Tjanster />
+    <Oppettider />
+    <RT90x />
+    <RT90y />
+  </ButikOmbud>
+  <ButikOmbud xsi:type="AgentAssortmentViewModel">
+    <Typ>Ombud</Typ>
     <Nr>058019-90A</Nr>
     <Namn>Ica Nära Ljungsbro</Namn>
     <Address1>Vallbytorpsvägen 1</Address1>
