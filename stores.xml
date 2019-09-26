@@ -11013,22 +11013,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>138005-90A</Nr>
-    <Namn>Ica Nära Oskarström</Namn>
-    <Address1>Köpmansgatan 1</Address1>
-    <Address2 />
-    <Address3>313 31</Address3>
-    <Address4>OSKARSTRÖM</Address4>
-    <Address5>Hallands län</Address5>
-    <Telefon>035-494 70</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <Oppettider />
-    <RT90x>6300822</RT90x>
-    <RT90y>1327137</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
     <Nr>138014-90C</Nr>
     <Namn>Eliassons Kiosk &amp; Spel</Namn>
     <Address1>Stationsgatan 3</Address1>
