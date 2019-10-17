@@ -13769,22 +13769,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>228407-90B</Nr>
-    <Namn>Ulvö Handelsbod</Namn>
-    <Address1>Hamngatan 5</Address1>
-    <Address2 />
-    <Address3>893 99</Address3>
-    <Address4>ULVÖHAMN</Address4>
-    <Address5>Västernorrlands län</Address5>
-    <Telefon>072-905 71 05</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <Oppettider />
-    <RT90x>6993190.727</RT90x>
-    <RT90y>1643851.473</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
     <Nr>228407-93B</Nr>
     <Namn>Busskiosken i Nätra AB</Namn>
     <Address1>Harmonivägen 2</Address1>
