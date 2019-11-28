@@ -10624,23 +10624,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>108017-90B</Nr>
-    <Namn>Tempo Tving</Namn>
-    <Address1>Nävragölsvägen 2</Address1>
-    <Address2 />
-    <Address3>373 39</Address3>
-    <Address4>TVING</Address4>
-    <Address5>Blekinge län</Address5>
-    <Telefon>0455-33 01 00</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <SokOrd>BLEKINGE;KARLSKRONA</SokOrd>
-    <Oppettider />
-    <RT90x>6242554.193</RT90x>
-    <RT90y>1478671.384</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
     <Nr>108019-90B</Nr>
     <Namn>Coop Nära Hasslö</Namn>
     <Address1>Fiskaregårdsvägen 68</Address1>
@@ -13267,22 +13250,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Oppettider />
     <RT90x>6809509.976</RT90x>
     <RT90y>1554979.725</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
-    <Nr>218208-90D</Nr>
-    <Namn>Ica Nära Trönö</Namn>
-    <Address1>Glamsta 990</Address1>
-    <Address2 />
-    <Address3>826 95</Address3>
-    <Address4>TRÖNÖDAL</Address4>
-    <Address5>Gävleborgs län</Address5>
-    <Telefon>0</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <Oppettider />
-    <RT90x />
-    <RT90y />
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
