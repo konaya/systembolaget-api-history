@@ -13237,6 +13237,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
+    <Nr>218208-90C</Nr>
+    <Namn>Ica Nära Trönö</Namn>
+    <Address1>Glamsta 990</Address1>
+    <Address2 />
+    <Address3>826 95</Address3>
+    <Address4>TRÖNÖDAL</Address4>
+    <Address5>Gävleborgs län</Address5>
+    <Telefon>0270-360 85</Telefon>
+    <ButiksTyp />
+    <Tjanster />
+    <Oppettider />
+    <RT90x>6809509.976</RT90x>
+    <RT90y>1554979.725</RT90y>
+  </ButikOmbud>
+  <ButikOmbud xsi:type="AgentAssortmentViewModel">
+    <Typ>Ombud</Typ>
     <Nr>218306-91C</Nr>
     <Namn>Coop Kilafors</Namn>
     <Address1>Stationsgatan 14</Address1>
