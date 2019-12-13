@@ -10545,23 +10545,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>084008-91B</Nr>
-    <Namn>Ica Nära Södra Möckleby</Namn>
-    <Address1>Södra Möcklebyvägen 36</Address1>
-    <Address2 />
-    <Address3>386 63</Address3>
-    <Address4>DEGERHAMN</Address4>
-    <Address5>Kalmar län</Address5>
-    <Telefon>0485-66 00 09</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <SokOrd>Mörbylånga;Kalmar</SokOrd>
-    <Oppettider />
-    <RT90x>6247776.665</RT90x>
-    <RT90y>1537978.741</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
     <Nr>086005-90B</Nr>
     <Namn>Ica Nära Krysset</Namn>
     <Address1>Södra Järnvägsgatan 22</Address1>
