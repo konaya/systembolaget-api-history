@@ -11520,23 +11520,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>129035-90A</Nr>
-    <Namn>Ica Nära Arkelstorp</Namn>
-    <Address1>Allarpsvägen 11</Address1>
-    <Address2 />
-    <Address3>291 55</Address3>
-    <Address4>ARKELSTORP</Address4>
-    <Address5>Skåne län</Address5>
-    <Telefon>044-910 11</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <SokOrd>SKÅNE;KRISTIANSTAD</SokOrd>
-    <Oppettider />
-    <RT90x>6228219</RT90x>
-    <RT90y>1405437</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
     <Nr>138004-91A</Nr>
     <Namn>Matöppet Simlångsdalen</Namn>
     <Address1>Brearedsvägen 26</Address1>
