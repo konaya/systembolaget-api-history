@@ -8491,22 +8491,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>019204-90A</Nr>
-    <Namn>Torö Lanthandel</Namn>
-    <Address1>Storbygården 2</Address1>
-    <Address2 />
-    <Address3>149 92</Address3>
-    <Address4>NYNÄSHAMN</Address4>
-    <Address5>Stockholms län</Address5>
-    <Telefon>08-520 310 03</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <Oppettider />
-    <RT90x>6524492.788</RT90x>
-    <RT90y>1617473.446</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
     <Nr>030505-90D</Nr>
     <Namn>Skokloster Lanthandel AB</Namn>
     <Address1>Slottsskogsleden 19</Address1>
