@@ -10993,22 +10993,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>129035-90B</Nr>
-    <Namn>Ica Nära Arkelstorp</Namn>
-    <Address1>Allarpsväågen 11</Address1>
-    <Address2 />
-    <Address3>290 37</Address3>
-    <Address4>ARKELSTORP</Address4>
-    <Address5>Skåne län</Address5>
-    <Telefon>0</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <Oppettider />
-    <RT90x />
-    <RT90y />
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
     <Nr>138004-91A</Nr>
     <Namn>Matöppet Simlångsdalen</Namn>
     <Address1>Brearedsvägen 26</Address1>
@@ -13965,23 +13949,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Oppettider />
     <RT90x>6978353</RT90x>
     <RT90y>1470917</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
-    <Nr>230905-91A</Nr>
-    <Namn>Laxsjö Bua</Namn>
-    <Address1>Laxsjö 178</Address1>
-    <Address2 />
-    <Address3>835 62</Address3>
-    <Address4>FÖLLINGE</Address4>
-    <Address5>Jämtlands län</Address5>
-    <Telefon>0645-20050</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <SokOrd>Jämtland;Krokom</SokOrd>
-    <Oppettider />
-    <RT90x>7078719.226</RT90x>
-    <RT90y>1450390.709</RT90y>
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
