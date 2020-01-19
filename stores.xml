@@ -11493,22 +11493,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>146503-90A</Nr>
-    <Namn>Ica Nära Monicanders Mjöbäck</Namn>
-    <Address1>Öxabäcksvägen 5</Address1>
-    <Address2 />
-    <Address3>512 65</Address3>
-    <Address4>MJÖBÄCK</Address4>
-    <Address5>Västra Götalands län</Address5>
-    <Telefon>0325-340 04</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <Oppettider />
-    <RT90x />
-    <RT90y />
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
     <Nr>148037-90A</Nr>
     <Namn>Coop Styrsö</Namn>
     <Address1>C/O Fiskebäck Godsfärjeläger</Address1>
@@ -11539,22 +11523,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Oppettider />
     <RT90x>6398655.156</RT90x>
     <RT90y>1260639.772</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
-    <Nr>148037-91B</Nr>
-    <Namn>Affären på Asperö</Namn>
-    <Address1>Gålebergsvägen 17.</Address1>
-    <Address2 />
-    <Address3>430 80</Address3>
-    <Address4>ASPERÖ</Address4>
-    <Address5>Västra Götalands län</Address5>
-    <Telefon>0</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <Oppettider />
-    <RT90x />
-    <RT90y />
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
