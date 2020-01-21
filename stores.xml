@@ -8152,22 +8152,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>012004-90B</Nr>
-    <Namn>Guns Livs</Namn>
-    <Address1>Solvik</Address1>
-    <Address2 />
-    <Address3>130 36</Address3>
-    <Address4>NÄMDÖ</Address4>
-    <Address5>Stockholms län</Address5>
-    <Telefon>070-225 39 46</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <Oppettider />
-    <RT90x>6566232.062</RT90x>
-    <RT90y>1665477.913</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
     <Nr>012502-90C</Nr>
     <Namn>Adelsö Butik</Namn>
     <Address1>Hovgården 9</Address1>
