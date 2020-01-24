@@ -14036,7 +14036,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>230908-91B</Nr>
-    <Namn>MBB Livs</Namn>
+    <Namn>ICA Nära Änge</Namn>
     <Address1>Centralvägen 20</Address1>
     <Address2 />
     <Address3>835 97</Address3>
@@ -14065,23 +14065,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Oppettider />
     <RT90x>7034286.19</RT90x>
     <RT90y>1400324.163</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
-    <Nr>231302-91D</Nr>
-    <Namn>Lidsjöbergs Lanthandel</Namn>
-    <Address1>Lidsjöberg 105</Address1>
-    <Address2 />
-    <Address3>833 97</Address3>
-    <Address4>LIDSJÖBERG</Address4>
-    <Address5>Jämtlands län</Address5>
-    <Telefon>0670-70012</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <SokOrd>Jämtland;Strömsund</SokOrd>
-    <Oppettider />
-    <RT90x>7133656.476</RT90x>
-    <RT90y>1472519.928</RT90y>
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
