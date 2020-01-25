@@ -8691,7 +8691,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
     <Nr>038200-91B</Nr>
-    <Namn>Coop Konsum Östhammar</Namn>
+    <Namn>Coop Östhammar</Namn>
     <Address1>Klockstapelgatan 1</Address1>
     <Address2 />
     <Address3>742 32</Address3>
