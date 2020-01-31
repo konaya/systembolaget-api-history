@@ -8202,24 +8202,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>013607-90A</Nr>
-    <Namn>Sandells Livs AB</Namn>
-    <Address1>Herrviksvägen 2</Address1>
-    <Address2 />
-    <Address3>148 95</Address3>
-    <Address4>MUSKÖ</Address4>
-    <Address5>Stockholms län</Address5>
-    <Telefon>0723321952</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <SokOrd>STHLM;STOCKHOLM;SKÄRGÅRD;STOCKHOLMS
-    SKÄRGÅRD;HANDEN;HANINGE;SÖRMLAND;SÖDERMANLAN</SokOrd>
-    <Oppettider />
-    <RT90x>6547265.391</RT90x>
-    <RT90y>1636033.261</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
     <Nr>018107-90A</Nr>
     <Namn>ICA Köpcenter</Namn>
     <Address1>Storgatan 4</Address1>
