@@ -10523,22 +10523,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>108017-90C</Nr>
-    <Namn>Tving Supermarket</Namn>
-    <Address1>Nävragölsvägen 2</Address1>
-    <Address2 />
-    <Address3>373 39</Address3>
-    <Address4>TVING</Address4>
-    <Address5>Blekinge län</Address5>
-    <Telefon>0</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <Oppettider />
-    <RT90x>6242545.481</RT90x>
-    <RT90y>1478676.664</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
     <Nr>108019-90B</Nr>
     <Namn>Coop Nära Hasslö</Namn>
     <Address1>Fiskaregårdsvägen 68</Address1>
@@ -11460,19 +11444,19 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>148037-91A</Nr>
+    <Nr>148037-91B</Nr>
     <Namn>Affären på Asperö</Namn>
     <Address1>C/O Fiskebäck Godsfärjeläger</Address1>
     <Address2 />
     <Address3>426 58</Address3>
     <Address4>Västra Frölunda</Address4>
     <Address5>Västra Götalands län</Address5>
-    <Telefon>031-97 02 04</Telefon>
+    <Telefon>0</Telefon>
     <ButiksTyp />
     <Tjanster />
     <Oppettider />
-    <RT90x>6398655.156</RT90x>
-    <RT90y>1260639.772</RT90y>
+    <RT90x />
+    <RT90y />
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
