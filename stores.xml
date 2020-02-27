@@ -10727,23 +10727,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   </ButikOmbud>
   <ButikOmbud xsi:type="AgentAssortmentViewModel">
     <Typ>Ombud</Typ>
-    <Nr>118305-90A</Nr>
-    <Namn>Matöppet Vinslöv</Namn>
-    <Address1>Torget 5</Address1>
-    <Address2 />
-    <Address3>288 31</Address3>
-    <Address4>VINSLÖV</Address4>
-    <Address5>Skåne län</Address5>
-    <Telefon>044-800 32</Telefon>
-    <ButiksTyp />
-    <Tjanster />
-    <SokOrd>SKÅNE;HÄSSLEHOLM</SokOrd>
-    <Oppettider />
-    <RT90x>6221085</RT90x>
-    <RT90y>1382477</RT90y>
-  </ButikOmbud>
-  <ButikOmbud xsi:type="AgentAssortmentViewModel">
-    <Typ>Ombud</Typ>
     <Nr>118312-90B</Nr>
     <Namn>Vittsjö Blomsterhandel</Namn>
     <Address1>Hässleholmsvägen 13</Address1>
@@ -10953,6 +10936,22 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Address4>ARKELSTORP</Address4>
     <Address5>Skåne län</Address5>
     <Telefon>0</Telefon>
+    <ButiksTyp />
+    <Tjanster />
+    <Oppettider />
+    <RT90x />
+    <RT90y />
+  </ButikOmbud>
+  <ButikOmbud xsi:type="AgentAssortmentViewModel">
+    <Typ>Ombud</Typ>
+    <Nr>129305-90A</Nr>
+    <Namn>Matöppet Vinslöv</Namn>
+    <Address1>Torget 5</Address1>
+    <Address2 />
+    <Address3>288 31</Address3>
+    <Address4>VINSLÖV</Address4>
+    <Address5>Skåne län</Address5>
+    <Telefon>044-800 32</Telefon>
     <ButiksTyp />
     <Tjanster />
     <Oppettider />
